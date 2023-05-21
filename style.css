@@ -82,21 +82,21 @@ img{
 @media only screen and (max-width: 600px){
 
     .t1{
-        font-size: 20px;
+        font-size: 10px;
         text-align: center;
     }
     .t2{
-        font-size: 50px;
+        font-size: 40px;
     }
     .container{
         display: flex;
         flex-direction: column;
     }
     img{
-        width: 300px;
+        width: 250px;
     }
     .t3{
-        font-size:10px;
+        font-size:5px;
     }
 }
 
