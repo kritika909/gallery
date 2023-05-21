@@ -4,11 +4,11 @@ body{
 }
 @font-face{
     font-family: "Tidal-Script";
-    src: url(/Tilda\ Script\ S\ Non-connect\ Demo.ttf)format(truetype);
+    src: url(../gallery/Tilda\ Script\ S\ Non-connect\ Demo.ttf)format(truetype);
 }
 @font-face{
     font-family: "Futura";
-    src: url(/Futura\ Book\ font.ttf)format(truetype);
+    src: url(../gallery/Futura\ Book\ font.ttf)format(truetype);
 }
 
 .t1{
